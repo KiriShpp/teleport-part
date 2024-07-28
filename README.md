@@ -1,1 +1,2 @@
-к
+- The script must be inserted into any of the blocks for teleportation
+- You should definitely replace "part" with the name of your model
